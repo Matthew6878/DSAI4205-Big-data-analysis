@@ -1,0 +1,14 @@
++---------+------+---+------+-----+-------------+------+-----------------------------------------------------------------------------------+--------+
+|StudentID|Name  |Age|Gender|Grade|Year of Study|Major |Homework                                                                           |Past GPA|
++---------+------+---+------+-----+-------------+------+-----------------------------------------------------------------------------------+--------+
+|12aB34   |Alice |20 |F     |B+   |2            |CS    |The sky is blue. I enjoy reading books. Cats are curious.                          |3.5     |
+|44rT32   |Daniel|20 |M     |B    |2            |CS    |Cats are curious. The sky is blue. I enjoy reading books.                          |3.4     |
+|05Xx21   |Nora  |21 |F     |A    |3            |CS    |Algorithms are efficient. Data structures organize data. Python is popular.        |3.6     |
+|98Zx56   |Brian |21 |M     |A-   |3            |Lit   |I enjoy reading books. Cats are curious. The sky is blue.                          |3.7     |
+|75qQ12   |Faisal|23 |M     |C+   |5            |Lit   |Shakespeare wrote plays. Poetry uses metaphors. Literature reflects society.       |2.9     |
+|67Lm89   |Carla |22 |F     |A    |4            |Bio   |Photosynthesis needs sunlight. Leaves are green. Plants grow in soil.              |3.9     |
+|88Hg45   |Grace |21 |F     |C    |3            |Bio   |Leaves are green. Plants grow in soil. Photosynthesis needs sunlight.              |1.9     |
+|31Oo76   |Emily |19 |F     |A-   |1            |Hist  |The past shapes the future. Wars affect nations. People write history.             |3.8     |
+|22Ws90   |Henry |20 |M     |B-   |2            |Hist  |Trade routes shaped empires. The Renaissance sparked ideas. Monarchs ruled nations.|3.2     |
+|59Kk38   |Jack  |22 |M     |B    |4            |EnvSci|Climate change affects weather. Ecosystems are fragile. We must reduce emissions.  |3.3     |
++---------+------+---+------+-----+-------------+------+-----------------------------------------------------------------------------------+--------+

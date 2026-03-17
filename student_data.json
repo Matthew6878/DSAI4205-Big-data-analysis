@@ -1,0 +1,112 @@
+[
+  {
+    "StudentID":"12aB34",
+    "Name":"Alice",
+    "Age":20,
+    "Gender":"F",
+    "Grade":"B+",
+    "Year of Study":2,
+    "Major":"CS",
+    "Homework":"The sky is blue. I enjoy reading books. Cats are curious.",
+    "Past GPA":3.5
+  },
+  {
+    "StudentID":"44rT32",
+    "Name":"Daniel",
+    "Age":20,
+    "Gender":"M",
+    "Grade":"B",
+    "Year of Study":2,
+    "Major":"CS",
+    "Homework":"Cats are curious. The sky is blue. I enjoy reading books.",
+    "Past GPA":3.4000000954
+  },
+  {
+    "StudentID":"05Xx21",
+    "Name":"Nora",
+    "Age":21,
+    "Gender":"F",
+    "Grade":"A",
+    "Year of Study":3,
+    "Major":"CS",
+    "Homework":"Algorithms are efficient. Data structures organize data. Python is popular.",
+    "Past GPA":3.5999999046
+  },
+  {
+    "StudentID":"98Zx56",
+    "Name":"Brian",
+    "Age":21,
+    "Gender":"M",
+    "Grade":"A-",
+    "Year of Study":3,
+    "Major":"Lit",
+    "Homework":"I enjoy reading books. Cats are curious. The sky is blue.",
+    "Past GPA":3.7000000477
+  },
+  {
+    "StudentID":"75qQ12",
+    "Name":"Faisal",
+    "Age":23,
+    "Gender":"M",
+    "Grade":"C+",
+    "Year of Study":5,
+    "Major":"Lit",
+    "Homework":"Shakespeare wrote plays. Poetry uses metaphors. Literature reflects society.",
+    "Past GPA":2.9000000954
+  },
+  {
+    "StudentID":"67Lm89",
+    "Name":"Carla",
+    "Age":22,
+    "Gender":"F",
+    "Grade":"A",
+    "Year of Study":4,
+    "Major":"Bio",
+    "Homework":"Photosynthesis needs sunlight. Leaves are green. Plants grow in soil.",
+    "Past GPA":3.9000000954
+  },
+  {
+    "StudentID":"88Hg45",
+    "Name":"Grace",
+    "Age":21,
+    "Gender":"F",
+    "Grade":"C",
+    "Year of Study":3,
+    "Major":"Bio",
+    "Homework":"Leaves are green. Plants grow in soil. Photosynthesis needs sunlight.",
+    "Past GPA":1.8999999762
+  },
+  {
+    "StudentID":"31Oo76",
+    "Name":"Emily",
+    "Age":19,
+    "Gender":"F",
+    "Grade":"A-",
+    "Year of Study":1,
+    "Major":"Hist",
+    "Homework":"The past shapes the future. Wars affect nations. People write history.",
+    "Past GPA":3.7999999523
+  },
+  {
+    "StudentID":"22Ws90",
+    "Name":"Henry",
+    "Age":20,
+    "Gender":"M",
+    "Grade":"B-",
+    "Year of Study":2,
+    "Major":"Hist",
+    "Homework":"Trade routes shaped empires. The Renaissance sparked ideas. Monarchs ruled nations.",
+    "Past GPA":3.2000000477
+  },
+  {
+    "StudentID":"59Kk38",
+    "Name":"Jack",
+    "Age":22,
+    "Gender":"M",
+    "Grade":"B",
+    "Year of Study":4,
+    "Major":"EnvSci",
+    "Homework":"Climate change affects weather. Ecosystems are fragile. We must reduce emissions.",
+    "Past GPA":3.2999999523
+  }
+]
